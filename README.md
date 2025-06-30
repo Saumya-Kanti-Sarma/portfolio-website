@@ -1,30 +1,30 @@
-# React + TypeScript + Vite
+# Hi! My name is Saumya Sarma
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I am a **Full-stack software developer** with over **2 years of experience** in building cross-origin platforms and fullstack web apps.
 
-Currently, two official plugins are available:
+I've deep knowledge of **MERN stack development** with additional tools and technologies like **Next.js, NestJS, supabase, postSQL, Cloudflare (Pages and R2 buckets), Docker** and many more.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I've also built some complex projects like **content streaming engines, native audio player and downloader** and **2 open-source NPM packages** that are helping hundreds of React and Next.js developers.
 
-## Expanding the ESLint configuration
+_All of this and I'm just 21._
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+---
 
-- Configure the top-level `parserOptions` property like this:
+## I'm looking for opportunities as:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- Full-stack intern
+- Frontend intern
+- Backend intern
+- Cloud and DevOps intern
+- Project partner in open-source projects
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+So if you are looking for a tech intern in any of this field or hunting your co-founder then this is it..
+
+---
+
+## Connect with me
+
+- [Twitter/X](https://x.com/devloper_saumya)
+- [Instagram](https://www.instagram.com/developer_saumya)
+- [LinkedIn](https://www.linkedin.com/in/saumya-sarma-2ab6a52a4/)
+- [GitHub](https://github.com/Saumya-Kanti-Sarma)
