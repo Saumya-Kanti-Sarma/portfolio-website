@@ -1,0 +1,30 @@
+@media (max-width: 1080px) {
+
+  .nav-heading,
+  .nav-ul {
+    flex: 1;
+  }
+
+  .nav-ul {
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .nav-heading {
+    font-size: 28px;
+    flex: 2;
+  }
+
+  .nav-ul img {
+    width: 40px;
+  }
+}
+
+@media (max-width: 480px) {
+  .nav-heading {
+    font-size: 22px;
+    flex: 1;
+  }
+}

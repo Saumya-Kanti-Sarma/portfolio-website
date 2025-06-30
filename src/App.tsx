@@ -1,9 +1,10 @@
 import './App.css';
+import Navbar from './components/Navbar/Navbar';
 const App = () => {
   return (
-    <>
-      App
-    </>
+    <main className='w-full'>
+      <Navbar />
+    </main>
   )
 }
 
