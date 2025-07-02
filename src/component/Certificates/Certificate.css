@@ -1,0 +1,14 @@
+#certificate-holder::-webkit-scrollbar {
+  display: none;
+  animation: scroll infinite linear infinite;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}

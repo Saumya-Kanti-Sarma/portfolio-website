@@ -7,7 +7,9 @@ const Home = () => {
         <div id="home-info-holder" className="flex justify-center  items-center max-sm:flex-col-reverse w-[80%] mx-auto my-0 max-md:w-[100%]">
           <div className="flex-3 max-md:flex-1">
             <h1>Hii! I'm Saumya Sarma</h1>
-            <h3 className="font-medium text-[#ffe600]">a Full-stack web developer with prior knowledge of  both Frontend and Backend in MERN stack development. <br />Also in Cloud services and system design...</h3>
+            <h3 className="font-medium text-[#c4ffa2]"><i>
+              "a Full-stack web developer with prior knowledge of Frontend, Backend, Cloud providers and Systen designs.."
+            </i></h3>
             <br />
             <p className="text-2xl">I have deep knowledge of:</p>
             <section className="flex flex-wrap items-center justify-start gap-[10px] w-[100%] mt-1 ">
@@ -43,7 +45,7 @@ const Home = () => {
         >
           Download Resume
         </a>
-        <section className="flex  justify-center items-center gap-2">
+        <section className="flex  justify-center items-center gap-2 max-sm:hidden">
           <a href="x.com/devloper_saumya" target="blank">
             <div className="flex flex-col items-center justify-center m-[2px]">
               <img src="/logos/1.png" alt="logo" className="w-[30px] max-sm:w-[20px] " /> Twitter
@@ -68,27 +70,27 @@ const Home = () => {
         </section>
       </div>
       <br />
-      <div id="home-stats-info-area" className="bg-[#ffffff1f] w-[80%] min-h-[15dvh] rounded-2xl p-2.5 flex justify-around items-center gap-[20px] flex-wrap  max-md:w-[100%] max-sm:hidden max-lg:justify-start mx-[auto] my-0">
+      <div id="home-stats-info-area" className="bg-[#ffffff1f] w-[80%] min-h-[15dvh] rounded-2xl p-2.5 grid grid-cols-5 gap-[20px] max-md:w-[100%] max-lg:grid-cols-3   max-md:grid-cols-2 max-sm:items-center max-lg:justify-start max-lg:items-center mx-[auto] my-0">
 
-        <div className="flex justify-between items-center gap-1 bg-[#ffffff3a] rounded-2xl p-[10px] w-[150px]">
-          <h1 className="text-2xl">40+</h1>
-          <p className="text-[16px]">public repositories in Github</p>
+        <div className="flex justify-between items-center gap-1 bg-[#ffffff17] rounded-2xl p-[10px] w-[150px] max-md:w-[140px]">
+          <h1 className="text-2xl">30+</h1>
+          <p className="text-[16px]">project repositories</p>
         </div>
-        <div className="flex justify-between items-center gap-1 bg-[#ffffff3a] rounded-2xl p-[10px] w-[150px]">
-          <h1 className="text-2xl">40+</h1>
-          <p className="text-[16px]">public repositories in Github</p>
+        <div className="flex justify-between items-center gap-1 bg-[#ffffff17] rounded-2xl p-[10px] w-[150px] max-md:w-[140px]">
+          <h1 className="text-2xl">10+</h1>
+          <p className="text-[16px]">Full stack project</p>
         </div>
-        <div className="flex justify-between items-center gap-1 bg-[#ffffff3a] rounded-2xl p-[10px] w-[150px]">
-          <h1 className="text-2xl">40+</h1>
-          <p className="text-[16px]">public repositories in Github</p>
+        <div className="flex justify-between items-center gap-1 bg-[#ffffff17] rounded-2xl p-[10px] w-[150px] max-md:w-[140px]">
+          <h1 className="text-2xl">13+</h1>
+          <p className="text-[16px]"> Tech stack</p>
         </div>
-        <div className="flex justify-between items-center gap-1 bg-[#ffffff3a] rounded-2xl p-[10px] w-[150px]">
-          <h1 className="text-2xl">40+</h1>
-          <p className="text-[16px]">public repositories in Github</p>
+        <div className="flex justify-between items-center gap-1 bg-[#ffffff17] rounded-2xl p-[10px] w-[150px] max-md:w-[140px]">
+          <h1 className="text-2xl">2+</h1>
+          <p className="text-[16px]">open-souce projects</p>
         </div>
-        <div className="flex justify-between items-center gap-1 bg-[#ffffff3a] rounded-2xl p-[10px] w-[150px]">
-          <h1 className="text-2xl">40+</h1>
-          <p className="text-[16px]">public repositories in Github</p>
+        <div className="flex justify-between items-center gap-1 bg-[#ffffff17] rounded-2xl p-[10px] w-[150px] max-md:w-[140px]">
+          <h1 className="text-2xl">4</h1>
+          <p className="text-[16px]">certifications</p>
         </div>
       </div>
     </>
