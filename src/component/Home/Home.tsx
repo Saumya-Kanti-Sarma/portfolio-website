@@ -11,22 +11,22 @@ const Home = () => {
             <br />
             <p className="text-2xl">I have deep knowledge of:</p>
             <section className="flex flex-wrap items-center justify-start gap-[10px] w-[100%] mt-1 ">
-              <Button Text="TypeScript" bgColor="#3079C6" color="#fff" onclick={() => { }} />
-              <Button Text="JavaScript" bgColor="#FFEC17" color="#000" onclick={() => { }} />
-              <Button Text="Python" bgColor="#779AB8" color="#fff" onclick={() => { }} />
-              <Button Text="Next.js" bgColor="#fff" color="#000" onclick={() => { }} />
-              <Button Text="React" bgColor="#50C3E3" color="#FFFFFF" onclick={() => { }} />
-              <Button Text="Redux" bgColor="#1A1B1E" color="#FFFFFF" onclick={() => { }} />
-              <Button Text="Tailwind CSS" bgColor="#43AAB1" color="#FFFFFF" onclick={() => { }} />
-              <Button Text="Node.js" bgColor="#2F6323" color="#fff" onclick={() => { }} />
-              <Button Text="Nest JS" bgColor="#DF214F" color="#fff" onclick={() => { }} />
-              <Button Text="Fastify" bgColor="#1A1B1E" color="#fff" onclick={() => { }} />
-              <Button Text="Flask" bgColor="#1A1B1E" color="#fff" onclick={() => { }} />
-              <Button Text="Supabase" bgColor="#3ECF8E" color="#000" onclick={() => { }} />
-              <Button Text="MongoDB" bgColor="#3F9C36" color="#fff" onclick={() => { }} />
-              <Button Text="CloudFlare" bgColor="#F5AB0D" color="#000" onclick={() => { }} />
-              <Button Text="AWS" bgColor="#F79C0A" color="#000" onclick={() => { }} />
-              <Button Text="Docker" bgColor="#0093D7" color="#fff" onclick={() => { }} />
+              <Button Text="TypeScript" />
+              <Button Text="JavaScript" />
+              <Button Text="Python" />
+              <Button Text="Next.js" />
+              <Button Text="React" />
+              <Button Text="Redux" />
+              <Button Text="Tailwind" />
+              <Button Text="Node.js" />
+              <Button Text="NestJS" />
+              <Button Text="Fastify" />
+              <Button Text="Flask" />
+              <Button Text="Supabase" />
+              <Button Text="MongoDB" />
+              <Button Text="Cloudflare" />
+              <Button Text="AWS" />
+              <Button Text="Docker" />
             </section>
           </div>
           <div className="flex-1 flex items-center">
