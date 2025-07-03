@@ -17,7 +17,7 @@ const Card: React.FC<cardProps> = ({
 }) => {
 
   return (
-    <a href={url} className="max-w-[420px] w-[100%] flex flex-col justify-start items-center gap-[10px] h-[600px] p-[10px]" target="blank">
+    <a href={url} className="max-w-[420px] w-[100%] flex flex-col justify-start items-center gap-[10px] h-[600px] p-[10px] hover:bg-white/20 transition-all duration-300 rounded-[12px]" target="blank">
       <h2 className="text-center">{title}</h2>
       <img src={img} alt="card.img.svg" className="w-[100%] object-cover rounded-[8px]" />
       <p><b>About the project: </b> <br />{about}</p>

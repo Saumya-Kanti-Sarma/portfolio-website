@@ -13,7 +13,7 @@ const data = [
     title: "Developers Blogging Platform | Codeplexx",
     about: "Codeplexx a full-stack blogging site for developers to share their articles, tutorials or research papers. I made this because I love reading and writing tech articles and initially thought to make my Tech Crunch.",
     img: "https://azjgnoxfyygbnquzecyw.supabase.co/storage/v1/object/public/saumya.dev/projects/codeplexx.png",
-    techstacks: ["Next.js", "Next APIs", "TypeScript", "Supabase"]
+    techstacks: ["Next.js", "Next APIs", "TypeScript", "Supabase", "Redux"]
   },
   {
     url: "https://gama-audios.vercel.app/",
@@ -25,7 +25,7 @@ const data = [
   {
     url: "https://shoe-commerce-eight.vercel.app/",
     title: "ShoeCommerce",
-    about: " Build this website in four hours using basic react as I was competing with my friend (which I won ofcourse).",
+    about: " Build this website in four hours using basic react and jaascript as I was competing with my friend (which I won ofcourse). It has plain css and uses react router for basic routing",
     img: "https://azjgnoxfyygbnquzecyw.supabase.co/storage/v1/object/public/saumya.dev/projects/shoecommerce.png",
     techstacks: ["React", "JavaScript",]
   }
